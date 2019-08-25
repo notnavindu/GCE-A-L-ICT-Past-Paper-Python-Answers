@@ -1,3 +1,8 @@
+"""
+*Assumption: The program terminates when the user enters -1 as the food type (input) 
+
+"""
+
 # Initialize price list as a dictionary
 priceList = {1: 10, 2: 12, 3: 15, 4: 10, 5: 25, 6: 45, 7: 50, 8: 25, 9: 10, 10: 12}
 
