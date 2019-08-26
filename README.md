@@ -27,6 +27,7 @@
 > Your teacher has requested you to write a python program to record the marks obtained by students at the term test. Each student had sat for the same three papers and each mark was given as an integer value out of 100 marks. Each student is identified by a unique index number which is also an integer. You should record the marks of each student in a text file named 'marks.txt' in the following format.
 
 `_index_no_1,mark_11,mark_12,mark_13_`
+
 `_index_no_2,mark_21,mark_22,mark_23_`
 
 > Marks should be entered through the keyboard, one item at a time and the program should be terminated when -1 is entered as the index number
