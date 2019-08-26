@@ -12,7 +12,7 @@ tot = 0
 
 while True:
     # input the file type
-    ftype = int(input())
+    ftype = int(input("Enter food type: "))
 
     # break out of the loop if ftype is -1
     if ftype == -1:

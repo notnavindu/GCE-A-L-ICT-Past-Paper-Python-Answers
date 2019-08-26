@@ -1,5 +1,5 @@
 # Input required number
-n = int(input())
+n = int(input("Enter number: "))
 
 fact = 1
 
