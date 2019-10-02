@@ -1,4 +1,5 @@
 # GCE A/L ICT Past Paper Python Answers
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnotnavindu%2FGCE-A-L-ICT-Past-Paper-Python-Answers-)
 
 ## 2019
 ![2018 Flowchart](https://i.imgur.com/b9Lcd6A.jpg "2019 Flow chart")
