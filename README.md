@@ -46,5 +46,3 @@
 ## 2013
 
 > You are required to write a Python program to find and display the maximum value of given 10 integers. The program should read integers one at a time.
-
-`Why did I make this 2 days before A/L? Ask my procrastination`
