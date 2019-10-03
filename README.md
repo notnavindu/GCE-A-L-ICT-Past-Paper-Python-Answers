@@ -1,5 +1,5 @@
 # GCE A/L ICT Past Paper Python Answers
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnotnavindu%2FGCE-A-L-ICT-Past-Paper-Python-Answers-)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnotnavindu%2FGCE-A-L-ICT-Past-Paper-Python-Answers-)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Run answers online](https://repl.it/@LENZFLIKER/GCE-AL-ICT-Past-Paper-Python-Answers)
 
 ## 2019
 ![2018 Flowchart](https://i.imgur.com/b9Lcd6A.jpg "2019 Flow chart")
@@ -47,5 +47,3 @@
 ## 2013
 
 > You are required to write a Python program to find and display the maximum value of given 10 integers. The program should read integers one at a time.
-
-`Why did I make this 2 days before A/L? Ask my procrastination`
