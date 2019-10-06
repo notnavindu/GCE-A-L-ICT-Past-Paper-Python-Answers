@@ -59,6 +59,8 @@
 > describe the main task of each of the functions `readdata(). printdata() and processdata` in the above program.
 > 
 > if the content of the file `input.txt` is as given below, what would be the content of the file `output.txt` after the execution of this program?
-			> 	a,d,b,a,n,
-			  	d,b,n,x,a
+			>
+			>> a,d,b,a,n,
+			>
+			>> d,b,n,x,a
           
