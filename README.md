@@ -48,19 +48,3 @@
 
 > You are required to write a Python program to find and display the maximum value of given 10 integers. The program should read integers one at a time.
 
-## 2012
-
-> (a) What are the data types of the variable `datasummary` and `datakeys` in the above program?
-> 
-> (b) Write a python statement required two insert the program name as a comment at the beginning of the above program.
-> 
-> (c) What is the result of execution of the command `open('input.txt','r')` in the above program?
-> 
-> (d) Describe the main task of each of the functions `readdata(). printdata() and processdata` in the above program.
-> 
-> (e) If the content of the file `input.txt` is as given below, what would be the content of the file `output.txt` after the execution of this program?
->
->> a,d,b,a,n,
->>
->> d,b,n,x,a
-          
