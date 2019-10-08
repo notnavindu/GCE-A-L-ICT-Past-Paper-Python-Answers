@@ -48,4 +48,3 @@
 
 > You are required to write a Python program to find and display the maximum value of given 10 integers. The program should read integers one at a time.
 
-          
