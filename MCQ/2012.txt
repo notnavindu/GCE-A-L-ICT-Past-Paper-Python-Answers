@@ -1,0 +1,29 @@
+47.Which of the following Python program is syntactically correct?
+
+    (1)Incorrect - No intendations
+
+    (2)Incorrect - No colon(:) on first line
+
+    (3)correct
+
+    (4)Incorrect - 9 and 11 in first line are strings
+
+    (5)Incorrect - unwanted colon on last line
+
+48. Consider the following incomplete Python program:
+
+name = ['Kamal', 'Ruwan', 'Nimal', 'Wimal']
+datacount = len(name)
+for i in range(datacount - 1):
+    for k in range(i+ 1, datacount):
+        if ........................  
+            name[i],name[k] = name[k],name[i]
+
+To arrange the data items in the name data structure in the reverse alphabetic order, which of the following
+Python statements should be included at the blank line?
+
+(1)
+(2)
+(3)
+(4)
+(5)
