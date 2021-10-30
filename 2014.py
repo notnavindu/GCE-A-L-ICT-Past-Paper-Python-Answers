@@ -1,10 +1,12 @@
-# Input required number
-n = int(input("Enter number: "))
+def fact():
+    # Input required number
+    n = int(input("Enter number: "))
 
-fact = 1
+    fact = n
 
-# calculate Factorial
-for i in range(n, 1, -1):
-    fact = fact * i
+    # calculate Factorial
+    while (n > 1):
+        n = n - 1
+        fact = fact * n
 
-print("Factorial of {} => {} ".format(n, fact))
+print("Factorial of ", n, ": ", fact)
