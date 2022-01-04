@@ -1,6 +1,13 @@
 # GCE A/L ICT Past Paper Python Answers
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnotnavindu%2FGCE-A-L-ICT-Past-Paper-Python-Answers-)
 
+## 2020
+![AL2020PythonChart](https://user-images.githubusercontent.com/35098511/148090386-dbfd3bee-cec7-403a-bef7-6ed87fc817df.jpg)
+
+> Assume that L is a list of positive integers, K is a positive integer and every element in L is less than M, which is a large integer.
+
+> Develop a Python program to implement the algorithm expressed by the flowchart.
+
 ## 2019
 ![2018 Flowchart](https://i.imgur.com/b9Lcd6A.jpg "2019 Flow chart")
 
